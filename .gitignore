@@ -1,0 +1,18 @@
+# Ignore only non-image large files
+*.rar
+*.zip
+*.7z
+*.tar.gz
+*.pdb
+*.dll
+*.exe
+
+# Ignore cache and temp files
+cache/
+temp/
+*.tmp
+*.log
+
+# Keep all PNG images - DO NOT IGNORE
+# *.png is NOT ignored - all images will be pushed
+
